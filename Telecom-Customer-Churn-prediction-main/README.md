@@ -28,11 +28,11 @@ The analysis uses the **Telco Customer Churn** dataset.
 
 | Analysis | Visualization |
 | :--- | :--- |
-| **Feature Correlation** | ![Correlation](images/feature_correlation_heatmap.png) |
-| **Model Performance** | ![Model Comparison](images/model_accuracy_comparison.png) |
-| **Performance Curves** | ![ROC AUC](images/roc_auc_curve.png) |
-| **Customer Retention** | ![Tenure Analysis](images/tenure_analysis_plot.png) |
-| **Prediction Errors** | ![Confusion Matrix](images/ensemble_confusion_matrix.png) |
+| **Feature Correlation** | ![Correlation](images/correlation%20with%20churn.PNG) |
+| **Model Comparison** | ![Accuracy](images/Accuracy%20score%20comparison.PNG) |
+| **Performance Curves** | ![ROC AUC](images/ROC%20AUC%20comparison.PNG) |
+| **Customer Retention** | ![Tenure](images/tenure%20and%20churn.PNG) |
+| **Prediction Errors** | ![Confusion Matrix](images/confusion_matrix_models.PNG) |
 
 ### **Key Insights:**
 * **Contract Type:** 75% of customers on Month-to-Month contracts churned, compared to only 3% for Two-Year contracts.
