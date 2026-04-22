@@ -50,8 +50,7 @@ clf3 = AdaBoostClassifier()
 
 eclf1 = VotingClassifier(estimators=[('gbc', clf1), ('lr', clf2), ('abc', clf3)], voting='soft')
 eclf1.fit(X_train, y_train)
-I am an AI Enthusiast and  Data science & ML practitioner
-
+I am a Full-Stack Developer and technical student focused on building data-driven AI solutions and agricultural automation
 
 
 
