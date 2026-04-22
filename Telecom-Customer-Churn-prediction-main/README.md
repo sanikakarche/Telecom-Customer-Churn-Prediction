@@ -64,3 +64,7 @@ eclf1 = VotingClassifier(estimators=[
 
 eclf1.fit(X_train, y_train)
 
+👤 Author
+Sanika Full-Stack Developer & AI Enthusiast Specializing in Web Development, Hardware-AI Integration (NeuralKrushi), and Data-Driven Solutions.
+
+LinkedIn: https://www.linkedin.com/in/sanika-karche | GitHub: https://github.com/sanikakarche
