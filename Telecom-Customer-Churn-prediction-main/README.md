@@ -1,7 +1,5 @@
 # Telecom Customer Churn Prediction
 
-![Banner](https://github.com/sanikakarche/Telecom-Customer-Churn-prediction/blob/main/output/customer%20churn.jpeg?raw=true)
-
 ## 📌 Project Overview
 Customer churn occurs when customers stop doing business with a company. In the highly competitive telecom industry, the annual churn rate fluctuates between 15-25%. 
 
